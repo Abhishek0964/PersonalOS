@@ -12,7 +12,7 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.x-38bdf8.svg?style=for-the-badge&logo=tailwindcss)](https://tailwindcss.com/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
 
-[**Live Demo**](https://personalos.vercel.app) • [**Bug Report**](https://github.com/Abhishek0964/PersonalOS/issues) • [**Feature Request**](https://github.com/Abhishek0964/PersonalOS/issues)
+[**Live Demo**](https://personal-os-eta-liard.vercel.app/) • [**Bug Report**](https://github.com/Abhishek0964/PersonalOS/issues) • [**Feature Request**](https://github.com/Abhishek0964/PersonalOS/issues)
 
 </div>
 
